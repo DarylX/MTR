@@ -16,20 +16,9 @@ body {
     border-color: #330000;
 }
 
-.carousel{
-    background-color:#FFFFFF;
-}
-
-.carousel-inner > .item > img,
-.carousel-inner > .item > a > img {
-    height: 30em;
-    width: 70%;
-    margin: auto;
-    margin-top: 5.5em;
-    margin-bottom: 2em;
-}
 
 .footer {
+    margin-top: 10em;
     background-color:#BF1919;
     border-color: #330000;
 }
