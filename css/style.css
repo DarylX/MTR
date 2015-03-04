@@ -2,3 +2,15 @@
     padding-left: 1em;
     padding-right: 1em;
 }
+
+.navbar-default {
+    color: aliceblue;
+    background-color:#BF1919;
+    border-color: #330000;
+}
+
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
