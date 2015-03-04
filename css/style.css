@@ -1,3 +1,10 @@
+html,
+body {
+    height: 100%;
+    background-color:#BF1919;
+  /* The html and body elements cannot have any padding or margin. */
+}
+
 .navbar div ul li{
     padding-left: 1em;
     padding-right: 1em;
@@ -9,8 +16,24 @@
     border-color: #330000;
 }
 
-  .carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
-      width: 70%;
-      margin: auto;
-  }
+.carousel{
+    background-color:#FFFFFF;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    height: 30em;
+    width: 70%;
+    margin: auto;
+    margin-top: 5.5em;
+    margin-bottom: 2em;
+}
+
+.footer {
+    background-color:#BF1919;
+    border-color: #330000;
+}
+
+.footer h5{
+    text-align:center; 
+}
